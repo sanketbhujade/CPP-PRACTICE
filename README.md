@@ -1,2 +1,2 @@
-# cpp
-this repo is created for storing practice progs
+# CPP PRACTICE
+Programs i did while learning C++ programming language
