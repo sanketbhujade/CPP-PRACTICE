@@ -1,5 +1,4 @@
 *.exe
 testfolder/
-ss/
+
 .gitignore
-test1.cpp
