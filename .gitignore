@@ -1,4 +1,4 @@
-test/
+root/test/
 ss/
 *.exe
 .gitignore
