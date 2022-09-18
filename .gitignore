@@ -1,4 +1,5 @@
-root/test/
+test/
 ss/
 *.exe
 .gitignore
+.vscode/
