@@ -3,3 +3,4 @@ app
 .vs
 *.exe
 tasks.json
+.gitignore
